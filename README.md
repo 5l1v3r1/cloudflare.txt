@@ -4,6 +4,8 @@
 
 [![Github All Releases](https://img.shields.io/twitter/follow/TebbaaX)]()
 
+https://www.twitter.com/tebbaax
+
 Cloudflare leaked IPs 7/2020 
 
 More Info : 
