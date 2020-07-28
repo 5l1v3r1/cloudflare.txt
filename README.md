@@ -3,6 +3,6 @@
 
 Cloudflare leaked IPs 7/2020 
 
-Source : https://www.hackread.com/cloudflare-data-leak-expose-ip-addresses-ukraine/
+More Info : https://www.hackread.com/cloudflare-data-leak-expose-ip-addresses-ukraine/
 
-Data collected from intelX 
+Data collected from https://www.intelX.io 
